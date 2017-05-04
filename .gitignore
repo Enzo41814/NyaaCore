@@ -58,7 +58,7 @@ gen### Java template
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -69,6 +69,3 @@ hs_err_pid*
 .gradle
 gradle
 build
-
-!lib/LocketteProAPI.jar
-!lib/EssentialsX-2.0.1-468.jar
