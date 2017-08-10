@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cat.nyaa</groupId>
+  <artifactId>nyaacore</artifactId>
+  <version>4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170810.025003</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170810025003</lastUpdated>
+  </versioning>
+</metadata>
