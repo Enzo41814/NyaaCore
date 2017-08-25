@@ -4,9 +4,10 @@
   <artifactId>nyaacore</artifactId>
   <version>4.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>4.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20170825.212459</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20170825212459</lastUpdated>
   </versioning>
 </metadata>
