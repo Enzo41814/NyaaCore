@@ -2,11 +2,10 @@
 <metadata>
   <groupId>cat.nyaa</groupId>
   <artifactId>nyaacore</artifactId>
-  <version>4.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>4.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170827172855</lastUpdated>
+    <lastUpdated>20170906125338</lastUpdated>
   </versioning>
 </metadata>
